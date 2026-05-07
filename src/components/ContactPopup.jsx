@@ -87,7 +87,7 @@ function ContactPopup({ showContact, setShowContact }) {
 
         {/* Phone Card */}
         <div
-          onClick={() => (window.location.href = "tel:+919876543210")}
+          onClick={() => (window.location.href = "tel:+6299687204")}
           className="cursor-pointer flex items-center justify-between border border-gray-200 rounded-2xl p-4 hover:shadow-lg hover:border-green-400 transition group"
         >
           <div className="flex items-center gap-4">
